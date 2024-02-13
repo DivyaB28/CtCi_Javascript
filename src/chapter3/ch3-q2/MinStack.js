@@ -1,4 +1,4 @@
-let Stack = require("../utils/stack");
+let Stack = require("../utils/Stack");
 
 class MinStack extends Stack {
   constructor() {
